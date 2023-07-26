@@ -1,0 +1,27 @@
+body{
+    background: radial-gradient(circle, rgb(231, 108, 161) 0%, rgb(86, 159, 243) 100%);
+    display: row;
+}
+.button{
+    background-color: rgb(228, 213, 213);
+    border-radius: 10px;
+    outline: none;
+    padding: 10px;
+    margin-left: 20px;
+    border: none;
+}
+.button:hover{
+    background-color: crimson;
+}
+.location{
+    background-color: rgb(228, 213, 213);
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    margin-left: 10px;
+    width: 300px;
+}
+.location:hover{
+    background-color: rgb(10, 98, 239);
+}
